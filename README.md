@@ -24,7 +24,7 @@ Dalam tugas ini, saya menganalisis data transaksi dan perilaku pelanggan untuk m
 - `quantium_analysis.Rmd` – RMarkdown untuk analisis utama
 - `quantium_analysis.html` – Output HTML dari RMarkdown
 - `quantium_analysis.pdf` – Output PDF dari RMarkdown
-- `quantium-virtual-internship-project.ipynb` – Notebook opsional (jika ada)
+- `quantium-virtual-internship-project.ipynb` – Notebook
 - `InsideSherpa_Task1_DraftSolutions - Template.pdf` – Template solusi dari program
 - `README.md` – Penjelasan proyek
 
