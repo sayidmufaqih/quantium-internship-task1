@@ -19,15 +19,14 @@ Dalam tugas ini, saya menganalisis data transaksi dan perilaku pelanggan untuk m
 
 ## 📂 Struktur Direktori
 
-quantium-internship-task1/
-├── QVI_transaction_data.xlsx
-├── QVI_purchase_behaviour.csv
-├── quantium_analysis.Rmd
-├── quantium_analysis.html
-├── quantium_analysis.pdf
-├── quantium-virtual-internship-project.ipynb
-├── InsideSherpa_Task1_DraftSolutions - Template.pdf
-├── README.md
+- `QVI_transaction_data.xlsx` – Dataset transaksi
+- `QVI_purchase_behaviour.csv` – Dataset perilaku pembelian
+- `quantium_analysis.Rmd` – RMarkdown untuk analisis utama
+- `quantium_analysis.html` – Output HTML dari RMarkdown
+- `quantium_analysis.pdf` – Output PDF dari RMarkdown
+- `quantium-virtual-internship-project.ipynb` – Notebook opsional (jika ada)
+- `InsideSherpa_Task1_DraftSolutions - Template.pdf` – Template solusi dari program
+- `README.md` – Penjelasan proyek
 
 
 ## 🧪 Langkah Analisis
